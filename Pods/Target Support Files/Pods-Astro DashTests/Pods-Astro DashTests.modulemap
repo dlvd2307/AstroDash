@@ -1,0 +1,6 @@
+framework module Pods_Astro_DashTests {
+  umbrella header "Pods-Astro DashTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

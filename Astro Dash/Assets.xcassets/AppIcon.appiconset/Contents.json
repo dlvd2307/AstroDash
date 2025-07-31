@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "dylza23_an_ios_app_icon_with_a_red_and_white_spaceship_triangul_6d08e3d9-44e7-4397-badc-fac188a55107.PNG",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
